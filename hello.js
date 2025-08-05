@@ -5,6 +5,6 @@ h1.addEventListener("mouseover",()=>{
 h1.addEventListener("mouseout",()=>{
     h1.style.color="black";
 });
-// added a new 
+// added a new-main
 let btn=document.createElement("button");
-// one feature extra added
+// one feature extra added-in main
